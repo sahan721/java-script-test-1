@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Advil 200mg (1 tablet)",
+        "image": "1.PNG",
+        "price": 12
+    },
+    {
+        "id": 2,
+        "name": "Asprin - C (1 tablet)",
+        "image": "2.PNG",
+        "price": 6
+    },
+    {
+        "id": 3,
+        "name": "Gofen 400mg (1 tablet)",
+        "image": "3.PNG",
+        "price": 20
+    },
+    {
+        "id": 4,
+        "name": "Hapacol (1 tablet)",
+        "image": "4.PNG",
+        "price": 12
+    },
+    {
+        "id": 5,
+        "name": "Profeno 600mg (1 tablet)",
+        "image": "5.PNG",
+        "price": 15
+    },
+    {
+        "id": 6,
+        "name": "Paracetamol 500mg (1 tablet)",
+        "image": "6.PNG",
+        "price": 3
+    }
+]
